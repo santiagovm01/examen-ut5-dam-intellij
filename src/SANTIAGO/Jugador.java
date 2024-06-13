@@ -1,4 +1,4 @@
-package torneo.base;
+package SANTIAGO;
 
 public class Jugador {
     private String nombre;

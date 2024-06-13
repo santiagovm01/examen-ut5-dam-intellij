@@ -1,4 +1,4 @@
-package torneo.base;
+package SANTIAGO;
 
 public class DatosInvalidosException extends Exception {
 
